@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+.navbar{
+    display: flex;
+    height: 65px;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.container{
+    max-width: 78vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section1{
+    max-height: 99vh; 
+    color: #2d1291;
+ }
+ 
+ .section1 h1{
+     color: #0e0c0c;
+     font-size: 2rem;
+ }
+ 
+.topleft{
+    width: 49%;
+}
+
+.topright{ 
+    width: 49%;
+}
+
+
+.logo{
+    font-size: 1.3rem;
+}
+
+.dumbellimg{
+    width: 279px;
+}
+
+.topright .gymimg{
+    width: 464px;
+}
+
+.section2{
+    padding: 76px;
+}
+
+.section2 h1{
+    font-size: 2.3rem;
+}
+
+.section2 p{
+    padding: 0 8vw;
+    text-align: center;
+}
+
+.box{
+    padding: 7px 0;
+    margin: 11px 23px;
+    min-width: 19vw;
+    border: 2px solid rgb(172, 38, 132);
+    border-radius: 9px;
+    text-align: center;
+}
+
+.box h2{
+    font-size: 2rem;
+    padding: 15px 0;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 11px;
+}
+
+.deal{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin: 11px 0;
+}
+
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box ul li{
+   margin: 1px 2px;
+}
+
+.plantable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 table{
+    width: 99%;
+    margin-bottom: 139px;
+    margin-top: 19px;
+    border-collapse: collapse;
+}
+
+.section3 table th{ 
+    width: 26vw; 
+    border-bottom: 2px solid black;
+    padding: 16px 0;
+} 
+
+.section3 table td{   
+    border-bottom: 2px solid black; 
+} 
+ 
+
+.section3 h1{
+    font-size: 2.3rem;
+}
+
+.section3{
+    padding: 76px;
+}
+
+footer{
+    padding: 26px;
+    text-align: center;
+}

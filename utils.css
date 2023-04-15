@@ -1,0 +1,76 @@
+.min-h-screen{
+    min-height: 99vh;
+}
+
+
+
+.items-center{
+    align-items: center;
+}
+
+.bg-red{
+    background-color: aquamarine;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.mx-auto{
+
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+
+.flex-col{
+    flex-direction: column;
+}
+
+.font-bold{
+    font-weight: bolder;
+}
+.btn{
+    cursor: pointer;
+    color: white;
+    padding:7px 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    background-color: rgb(24, 201, 62);;
+}
+
+
+.my-1{
+    margin-bottom: 14px;
+    margin-top: 12px;
+}
+
+.my-2{
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.px-2{
+    padding-right: 14px;
+    padding-left: 12px;
+}
+
+.text-blue{
+    color: rgb(98, 42, 161);;
+}
+
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align: center;
+}
